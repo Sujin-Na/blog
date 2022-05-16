@@ -6,3 +6,9 @@ bundle exec jekyll serve
 ```
 
 markdown syntax
+
+```
+git add .
+git commit -m "update"
+git push
+```

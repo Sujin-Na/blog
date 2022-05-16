@@ -9,3 +9,6 @@ categories: My idea
 
 
 You know what? **Cultured meat** is `great alternative` to the traditional meat. Buy it!
+
+안녕하세요 저는 입니다. 그냥 여기에다가 작성한 후에
+나중에 웹사이트에서 확인해보세요. 전 밥쪼기입니다. 목을 맨날 긁는답니다.
